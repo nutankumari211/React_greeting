@@ -1,3 +1,8 @@
+# About Project 
+This project is a simple react greeting app , which greets you according to time. It also changes color according to time.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
